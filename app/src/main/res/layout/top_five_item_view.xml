@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="4dp"
+    android:weightSum="3">
+
+    <TextView
+        android:id="@+id/country"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="Country"
+        android:textAlignment="center"
+        android:textColor="#005198"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/active"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_weight="1"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="A"
+        android:textAlignment="center"
+        android:textColor="#FF8989"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/recovered"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_weight="1"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="R"
+        android:textAlignment="center"
+        android:textColor="#54ADFF"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/deceased"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_weight="1"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="D"
+        android:textAlignment="center"
+        android:textColor="#7B7B7B"
+        android:textSize="16sp" />
+
+</LinearLayout>
