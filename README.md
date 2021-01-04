@@ -10,13 +10,20 @@
 ◆ All the statistical data in app is fetched through an API (api.covid19api.com) which will be discussed in details.
 
 
-## Reference
-### ◆ W3 Schools -  https://www.w3schools.com/xml/ 
-### ◆ Stack Overflow -  https://stackoverflow.com/
-### ◆ Design Guidelines - https://material.io/design/guidelines-overview
-### ◆ Animation - https://lottiefiles.com/17699-covid-1
+•••••••••••••••••••••••••••••••••••••••••
+### Download Design Materials
+https://bit.ly/harshit-design-materials
 
-### ◆ Download Design Materials -  https://bit.ly/harshit-design-materials
-### ◆ Download App Link -  https://bit.ly/harshit-covid-tracker-apk
-### ◆ Git Repository -  https://github.com/carinoharshit/Covid-Tracker
+### Download App
+https://bit.ly/harshit-covid-tracker-apk
+•••••••••••••••••••••••••••••••••••••••••
+
+
+### Reference
+◆ W3 Schools - https://www.w3schools.com/xml/ 
+◆ Stack Overflow - https://stackoverflow.com/
+◆ Design Guidelines - https://material.io/design/guidelines-overview
+◆ Animation - https://lottiefiles.com/17699-covid-1
+
+
 
