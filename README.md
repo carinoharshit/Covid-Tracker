@@ -11,18 +11,21 @@
 
 
 •••••••••••••••••••••••••••••••••••••••••
-### Download Design Materials
+#### Download Design Materials:
 https://bit.ly/harshit-design-materials
 
-### Download App
+#### Download App:
 https://bit.ly/harshit-covid-tracker-apk
 •••••••••••••••••••••••••••••••••••••••••
 
 
-### Reference
+#### Reference:
 ◆ W3 Schools - https://www.w3schools.com/xml/ 
+
 ◆ Stack Overflow - https://stackoverflow.com/
+
 ◆ Design Guidelines - https://material.io/design/guidelines-overview
+
 ◆ Animation - https://lottiefiles.com/17699-covid-1
 
 
